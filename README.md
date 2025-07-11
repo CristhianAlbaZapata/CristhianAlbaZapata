@@ -1,6 +1,6 @@
 ## Hola Bienvenido a mi perfil 👋
 
-**-** Mi nombre es **Cristhian Alba Zapata**
+- Mi nombre es **Cristhian Alba Zapata**
 --------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
